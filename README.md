@@ -1,2 +1,5 @@
 # Jupyter_assigns
-My Pytrhon assignments solved on Jupyter
+My Python assignments solved on Jupyter
+
+This includes both solved on windows and Linux
+
